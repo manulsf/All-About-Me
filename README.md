@@ -1,12 +1,12 @@
-# All-About-Me
-## Manuel López-Serrano Fabuel
+## All-About-Me
+### Manuel López-Serrano Fabuel
 
 📍 Madrid, Spain
 
 💻 Software Developer | 🎛 Sound Engineer
 
 👋 Hey there!
-I’m Manu, a 23 year old tech and audio enthusiast passionate about bridging the gap between code and creativity. I enjoy building tools, designing soundscapes, and diving deep into both software and sound technologies.
+I’m Manu, a 23 year old tech and audio enthusiast passionate about bridging the gap between code and creativity. I enjoy building tools, designing soundscapes, and diving deep into both software and sound technologies. Currently, I’m studying Multiplatform Software Development at FP Summa in Madrid, while also holding a degree as a Sound Engineer from CES School in Madrid.
 
 🛠️ Skills & Tech Stack
 

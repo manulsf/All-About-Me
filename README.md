@@ -14,7 +14,7 @@ I’m Manu, a 23 year old tech and audio enthusiast passionate about bridging th
 
 Languages: Java, C
 
-Frontend: HTML, CSS
+Frontend: HTML, CSS, JavaScript
 
 Databases: SQL, MongoDB
 
